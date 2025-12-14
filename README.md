@@ -38,15 +38,15 @@ This isn't just another cost calculator. It's a comprehensive financial planning
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](public\screenshots\dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 *Beautiful dark-themed interface with real-time calculations*
 
 ### Interactive Projections
-![Chart](public\screenshots\chart.png)
+![Chart](public/screenshots/chart.png)
 *Visual charts showing salary growth vs. living cost increase*
 
 ### Detailed Breakdown
-![Detail](public\screenshots\detail.png)
+![Detail](public/screenshots/detail.png)
 *Year-by-year expense analysis by category*
 
 ## 🚀 Quick Start
